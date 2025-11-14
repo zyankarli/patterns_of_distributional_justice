@@ -1,0 +1,41 @@
+variable,scenario,region,sum_weighted_avg_dle_threshold_adjusted
+Final Energy|Residential and Commercial,SSP2-1p5C,Countries of Latin America and the Caribbean,3.294306465034579
+Final Energy|Residential and Commercial,SSP2-1p5C,Countries of South Asia; primarily India,2.361526960192126
+Final Energy|Residential and Commercial,SSP2-1p5C,Countries of Sub-Saharan Africa,1.9263543830674932
+Final Energy|Residential and Commercial,SSP2-1p5C,Countries of centrally-planned Asia; primarily China,4.582271270161732
+Final Energy|Residential and Commercial,SSP2-1p5C,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",4.61310213201844
+Final Energy|Residential and Commercial,SSP2-1p5C,"Eastern and Western Europe (i.e., the EU28)",5.567607273750307
+Final Energy|Residential and Commercial,SSP2-1p5C,North America; primarily the United States of America and Canada,6.600861386576842
+Final Energy|Residential and Commercial,SSP2-1p5C,Other countries of Asia,1.998958519492971
+Final Energy|Residential and Commercial,SSP2-1p5C,Pacific OECD,5.878797315898514
+Final Energy|Residential and Commercial,SSP2-1p5C,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,7.508112611585859
+Final Energy|Residential and Commercial,SSP2-NPi,Countries of Latin America and the Caribbean,3.869698326218114
+Final Energy|Residential and Commercial,SSP2-NPi,Countries of South Asia; primarily India,2.5357551246329546
+Final Energy|Residential and Commercial,SSP2-NPi,Countries of Sub-Saharan Africa,2.4541660690084086
+Final Energy|Residential and Commercial,SSP2-NPi,Countries of centrally-planned Asia; primarily China,5.874152781269572
+Final Energy|Residential and Commercial,SSP2-NPi,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",5.98856073971005
+Final Energy|Residential and Commercial,SSP2-NPi,"Eastern and Western Europe (i.e., the EU28)",6.074607706599499
+Final Energy|Residential and Commercial,SSP2-NPi,North America; primarily the United States of America and Canada,7.588831080985061
+Final Energy|Residential and Commercial,SSP2-NPi,Other countries of Asia,2.3104091572430727
+Final Energy|Residential and Commercial,SSP2-NPi,Pacific OECD,7.2435512418783485
+Final Energy|Residential and Commercial,SSP2-NPi,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,9.72451406539726
+Final Energy|Transportation,SSP2-1p5C,Countries of Latin America and the Caribbean,5.977271777915651
+Final Energy|Transportation,SSP2-1p5C,Countries of South Asia; primarily India,4.935095934188267
+Final Energy|Transportation,SSP2-1p5C,Countries of Sub-Saharan Africa,6.6985021214774925
+Final Energy|Transportation,SSP2-1p5C,Countries of centrally-planned Asia; primarily China,6.116495658050773
+Final Energy|Transportation,SSP2-1p5C,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",5.036297980579701
+Final Energy|Transportation,SSP2-1p5C,"Eastern and Western Europe (i.e., the EU28)",5.622263806148339
+Final Energy|Transportation,SSP2-1p5C,North America; primarily the United States of America and Canada,7.928840995445134
+Final Energy|Transportation,SSP2-1p5C,Other countries of Asia,6.758982448453999
+Final Energy|Transportation,SSP2-1p5C,Pacific OECD,5.792294620691408
+Final Energy|Transportation,SSP2-1p5C,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,7.861402975322542
+Final Energy|Transportation,SSP2-NPi,Countries of Latin America and the Caribbean,11.105044707336424
+Final Energy|Transportation,SSP2-NPi,Countries of South Asia; primarily India,9.2777458137167
+Final Energy|Transportation,SSP2-NPi,Countries of Sub-Saharan Africa,15.259727766962989
+Final Energy|Transportation,SSP2-NPi,Countries of centrally-planned Asia; primarily China,9.054578740350467
+Final Energy|Transportation,SSP2-NPi,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",11.098366747162645
+Final Energy|Transportation,SSP2-NPi,"Eastern and Western Europe (i.e., the EU28)",7.411671574543533
+Final Energy|Transportation,SSP2-NPi,North America; primarily the United States of America and Canada,15.374765100490038
+Final Energy|Transportation,SSP2-NPi,Other countries of Asia,12.901151179846549
+Final Energy|Transportation,SSP2-NPi,Pacific OECD,10.4696969056062
+Final Energy|Transportation,SSP2-NPi,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,13.920760278409267

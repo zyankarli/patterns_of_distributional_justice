@@ -1,0 +1,81 @@
+variable,scenario,region,weighted_avg_energy_per_capita_uncorrected,unit
+Final Energy|Residential and Commercial,SDP_EI-1p5C,Countries of Latin America and the Caribbean,14.170267073810962,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,Countries of South Asia; primarily India,10.128702619289944,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,Countries of Sub-Saharan Africa,8.636350755234375,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,Countries of centrally-planned Asia; primarily China,19.00349958759488,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",24.0510358044869,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,"Eastern and Western Europe (i.e., the EU28)",21.008622792594995,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,North America; primarily the United States of America and Canada,32.12653038994573,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,Other countries of Asia,17.48261909506179,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,Pacific OECD,20.349725591763697,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_EI-1p5C,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,29.860972104642805,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,Countries of Latin America and the Caribbean,10.20782933330204,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,Countries of South Asia; primarily India,7.39027402691856,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,Countries of Sub-Saharan Africa,6.300601991392002,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,Countries of centrally-planned Asia; primarily China,12.785660812352042,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",15.998819030006892,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,"Eastern and Western Europe (i.e., the EU28)",15.223889800473108,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,North America; primarily the United States of America and Canada,24.821276365630453,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,Other countries of Asia,11.694429767981607,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,Pacific OECD,15.20310181429613,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_MC-1p5C,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,21.57750160644944,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,Countries of Latin America and the Caribbean,9.120972706424537,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,Countries of South Asia; primarily India,7.05672176764369,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,Countries of Sub-Saharan Africa,6.159458706635253,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,Countries of centrally-planned Asia; primarily China,11.411153778235288,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",15.042558835347721,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,"Eastern and Western Europe (i.e., the EU28)",13.946592067863918,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,North America; primarily the United States of America and Canada,23.782723870550086,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,Other countries of Asia,10.810436837105833,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,Pacific OECD,14.489907556935403,GJ/cap/yr
+Final Energy|Residential and Commercial,SDP_RC-1p5C,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,20.902753153089414,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,Countries of Latin America and the Caribbean,12.359161830260113,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,Countries of South Asia; primarily India,7.799652587670979,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,Countries of Sub-Saharan Africa,9.27267883603088,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,Countries of centrally-planned Asia; primarily China,25.2876975442527,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",24.457681806839783,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,"Eastern and Western Europe (i.e., the EU28)",26.191979762494576,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,North America; primarily the United States of America and Canada,46.702007105843805,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,Other countries of Asia,11.264893648930457,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,Pacific OECD,29.681879763501712,GJ/cap/yr
+Final Energy|Residential and Commercial,SSP2-NPi,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,40.86481650170913,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,Countries of Latin America and the Caribbean,10.852510549263439,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,Countries of South Asia; primarily India,4.983348891685104,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,Countries of Sub-Saharan Africa,4.83083826515923,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,Countries of centrally-planned Asia; primarily China,8.206185582944,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",13.88804888181041,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,"Eastern and Western Europe (i.e., the EU28)",11.125792840783758,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,North America; primarily the United States of America and Canada,21.672328704259076,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,Other countries of Asia,10.094971177707215,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,Pacific OECD,12.665094078911642,GJ/cap/yr
+Final Energy|Transportation,SDP_EI-1p5C,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,10.177063488565976,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,Countries of Latin America and the Caribbean,11.37835440901268,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,Countries of South Asia; primarily India,4.304530753735254,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,Countries of Sub-Saharan Africa,4.658387892708303,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,Countries of centrally-planned Asia; primarily China,7.469390934976142,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",14.953434108112894,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,"Eastern and Western Europe (i.e., the EU28)",8.46575020895397,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,North America; primarily the United States of America and Canada,18.208228293896845,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,Other countries of Asia,9.639148293230827,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,Pacific OECD,10.322817399426086,GJ/cap/yr
+Final Energy|Transportation,SDP_MC-1p5C,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,9.613166127438861,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,Countries of Latin America and the Caribbean,7.855183396621516,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,Countries of South Asia; primarily India,3.321089079453507,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,Countries of Sub-Saharan Africa,3.408763354871434,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,Countries of centrally-planned Asia; primarily China,4.874215242545015,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",10.00662810408388,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,"Eastern and Western Europe (i.e., the EU28)",6.017384137244969,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,North America; primarily the United States of America and Canada,15.259468970936659,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,Other countries of Asia,6.476787806091023,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,Pacific OECD,7.956560221232756,GJ/cap/yr
+Final Energy|Transportation,SDP_RC-1p5C,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,7.644969217691813,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,Countries of Latin America and the Caribbean,19.420359930162213,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,Countries of South Asia; primarily India,9.635513569955444,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,Countries of Sub-Saharan Africa,9.115069363888033,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,Countries of centrally-planned Asia; primarily China,15.267383046558798,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,"Countries of the Middle East; Iran, Iraq, Israel, Saudi Arabia, Qatar, etc.",27.51757514922317,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,"Eastern and Western Europe (i.e., the EU28)",14.264636478945754,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,North America; primarily the United States of America and Canada,47.46872013615044,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,Other countries of Asia,17.181581955824047,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,Pacific OECD,22.36239340457721,GJ/cap/yr
+Final Energy|Transportation,SSP2-NPi,Reforming Economies of Eastern Europe and the Former Soviet Union; primarily Russia,18.512306204059914,GJ/cap/yr
