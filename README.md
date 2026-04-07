@@ -1,1 +1,1 @@
-Files related to the submission "Exploring Patterns of Distributional Justice in Global Climate Change Mitigation Scenarios" to npj Climate Action by Scheifinger et al.
+Files related to the manuscript: Scheifinger, K., Brutschin, E., Mintz-Woo, K. et al. Exploring patterns of distributional justice in global climate change mitigation scenarios. npj Clim. Action 5, 39 (2026). https://doi.org/10.1038/s44168-026-00364-4
